@@ -1,5 +1,6 @@
 pub mod component;
 pub mod shaders;
+pub mod math;
 
 mod _window;
 mod _engine;
