@@ -1,0 +1,16 @@
+[package]
+name = "foux"
+license = "MIT"
+version = "0.0.1"
+edition = "2021"
+authors = ["DhavyLTS"]
+description = "(WIP)"
+
+[dependencies.gl]
+version = "0.14.0"
+
+[dependencies.glutin]
+version = "0.31.3"
+
+[dependencies.glfw]
+version = "*"
